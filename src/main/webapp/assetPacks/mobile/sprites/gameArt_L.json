@@ -1,0 +1,36 @@
+{"frames": {
+
+"BGart.png":
+{
+	"frame": {"x":1,"y":1,"w":960,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":600},
+	"sourceSize": {"w":960,"h":600}
+},
+"curtain.png":
+{
+	"frame": {"x":1,"y":603,"w":960,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":600},
+	"sourceSize": {"w":960,"h":600}
+},
+"gameBorder.png":
+{
+	"frame": {"x":1,"y":1205,"w":960,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":600},
+	"sourceSize": {"w":960,"h":600}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameArt_L.png",
+	"format": "RGBA8888",
+	"size": {"w":962,"h":1806},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d3d12bc6dbed6ff8c3b09c101094b64b:2f2b20869abdbaf1b5260a163493aa23:d9807156f9833448d4843c48303fe672$"
+}
+}

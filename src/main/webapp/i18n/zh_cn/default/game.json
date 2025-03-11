@@ -1,0 +1,83 @@
+{
+	"version":"4-07-2017-10:44am-SM-zh_cn_16",
+	"audioLoader": {
+            "yes": "是",
+            "no": "否",
+            "confirm": "是否打开音乐？"
+        },
+        "Paytable": {
+            "RTPvalue": "{@minRTP}%",
+            "RTPrange": "{@minRTP}% to {@maxRTP}%",
+			"paybackTitle": "Expected Payback",
+            "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+        },
+        "title": "福瑞生肖",
+        "MenuCommand": {
+            "WLA":{
+                "howToPlay": "游戏规则",
+                "payTable": "赔率表",
+                "price": "投注列表",
+                "stake": "单注金额",
+                "balance": "余额"     
+            },
+            "Commercial":{
+                "howToPlay": "游戏规则",
+                "payTable": "赔率表",
+                "price": "投注列表",
+                "stake": "单注金额",
+                "balance": "余额"     
+            },
+            "audio":{
+                "on":"是",
+                "off":"否",
+                "sound":"声音"
+            }
+        },
+	"Game":{
+		"loading_screen_loading": 				"载入中",
+		"demo": 								"试玩 ",
+		"button_play": 							"全开",
+		"button_playMTM": 						"全开",
+		"button_buy": 							"购买",
+		"button_try": 							"试玩",
+		"button_continue":						"继续",
+		"button_close":                         "关闭",
+		"message_close":                        "关闭",
+		"text_00":                              "点击窗户可以翻出生肖窗花",
+		"text_01":                              "任意相同的生肖窗花组成一条直线时,可赢得奖励",
+		"text_01_portrait":                     "任意相同的生肖窗花组成一条直线时\n可赢得奖励",
+		"text_02":                              "可以替代任意生肖窗花，还有可能让奖励成倍增加！",
+		"text_02_portrait":                     "可以替代任意生肖窗花\n还有可能让奖励成倍增加！",
+		"button_restart":                       "再玩一次",
+		"button_resMTM":                        "再玩一次",
+		"button_move2moneyGame":				"现金游戏",
+		"wager":								"单注金额",
+		"wager01":								"单注金额: ",
+		"balance":								"余额: ",
+		"wins":									"奖励: ",
+		"wins_demo":							"试玩奖励: ",
+		"button_reveal":						"全开",
+		"message_nonWin":						"下次好运",
+		"message_buyWin":						"恭喜，你赢得了",
+		"message_tryWin":						"恭喜，运气不错\n试试现金游戏吧",
+		"message_anonymous_tryWin":				"恭喜!运气不错",
+		"button_exit":							"离开",
+		"button_stop":							"取消",
+		"button_stopMTM":						"全开取消",
+		"session_timeout_warning_exit_button":	"离开",
+		"error_button_exit":                    "退出",
+		"warning_button_continue": 				"继续",
+		"warning_button_exitGame": 				"退出游戏",
+		"warning_title":						"警告",
+		"error_title":							"错误",	
+		"win_up_to":						    "最高\n可得",
+		"help_instruction":						"玩法说明",
+        "buttonClose":                          "X",
+		"meter_division":                       " | ",
+        "gameRules":                            "Game Rules",
+        "paytable":                             "Paytable",
+		"prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "paytableWager": "Ticket Cost: "
+	}
+}

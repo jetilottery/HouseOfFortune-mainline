@@ -1,0 +1,84 @@
+{
+    "version":                              "4-07-2017-10:44am-SM-en_us_16",
+    "audioLoader": {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+    "title": "House of Fortune",
+	"MenuCommand": {
+            "WLA":{
+                "howToPlay": "Game Rules",
+                "payTable": "Prize Table",
+                "price": "Price",
+                "stake": "Stake",
+                "balance": "Balance"                
+            },
+            "Commercial":{
+                "howToPlay": "Game Rules",
+		"payTable": "Paytable",
+                "price": "Price",
+                "stake": "Stake",
+                "balance": "Balance"     
+            },
+            "audio":{
+                "on":"On",
+                "off":"Off",
+                "sound":"Sound"
+            }
+	},
+    "Game":{
+        "loading_screen_loading": "LOADING",
+        "demo": "TRY ",
+        "button_play": "REVEAL ALL",
+        "button_playMTM": "REVEAL ALL",
+        "button_buy": "BUY",
+        "button_try": "TRY",
+        "button_continue": "CONTINUE",
+        "button_close": "CLOSE",
+        "message_close": "CLOSE",
+        "text_00": "Click/tap the windows to reveal animals.",
+        "text_01": "Find 3 identical animals in any row, column, or diagonal line to win a prize!",
+        "text_01_portrait": "Find 3 identical animals in any row, column, or diagonal line to win a prize!",
+        "text_02": "You might also find a        symbol that can stand for any animal\n and might even multiply a prize!",
+        "text_02_portrait": "You might also find a        symbol that can stand for any animal and might even multiply a prize!",
+        "button_restart": "PLAY AGAIN",
+        "button_resMTM":  "TRY AGAIN",
+        "button_move2moneyGame": "MOVE TO MONEY",
+        "wager": "TICKET COST",
+        "wager01": "Ticket Cost: ",
+        "balance": "Balance: ",
+        "wins":	"Win: ",
+        "wins_demo": "Demo Win: ",
+        "button_reveal": "REVEAL ALL",
+        "message_nonWin": "BETTER LUCK NEXT TIME",
+        "message_buyWin": "Congratulations!\nYou have won",
+        "message_tryWin": "Thanks for playing!You could have won",
+	    "message_anonymous_tryWin": "Thanks for playing!\nYou could have won",
+        "button_exit": "EXIT",
+        "button_stop": "CANCEL",
+        "button_stopMTM": "CANCEL",
+        "session_timeout_warning_exit_button": "EXIT",
+        "error_button_exit": "EXIT",
+        "warning_button_continue": "CONTINUE",
+        "warning_button_exitGame": "EXIT",
+        "warning_title": "WARNING",
+        "error_title": "ERROR",	
+        "win_up_to": "WIN UP TO",
+        "help_instruction": "HOW TO PLAY",
+        "buttonClose": "X",
+        "meter_division": " | ",
+        "gameRules": "Game Rules",
+        "paytable": "Paytable",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "paytableWager": "Ticket Cost: ",
+        "sboxHowToPlay":["<section> <h2><i>House of Fortune</i></h2><p>Are you ready to play a Tic Tac Toe game? <i>House of Fortune</i> lets you wipe the  windows to collect the Chinese traditional paper-cut decorations.</p><p>Try to get 3 identical symbols on each horizontal, vertical and diagonal grid line to win a prize. If you get a <strong>'FU'</strong> symbol on the winning grid line, your winning prize might be boosted up to 4x.</p><h2>How to Play</h2><h3>Ticket Cost</h3><p>Displays the current ticket cost.</p><p>Press the left arrow (–) to decrease the ticket cost.</p><p>Press the right arrow (+) to increase the ticket cost.</p> <p>Press BUY to deduct the ticket cost from the balance and play the game.</p><h2>Reveal All</h2><p>Press REVEAL ALL to automatically play the game to completion. Game play continues until all selections have been made. </p><h2>About The Game</h2><p>The object of the game is to get three identical symbols or get two identical symbols and 1 prize multiplier symbol to win the associated prize.</p><h3>Game Screen</h3><p>After a ticket is purchased, the game displays a 3x3 Tic Tac Toe grid. Each grid cell contains a symbol or a prize multiplier. </p><p>Each horizontal, vertical and diagonal grid line is associated with a prize amount.</p><h3>Winning a Prize</h3><p>Select tiles or press REVEAL ALL button to reveal the symbols. If three identical symbols in a line are revealed, the prize associated with that line will be awarded.</p><p>If two identical symbols and a prize multiplier symbol in a line are revealed, the prize associated with that line will be multiplied by the value indicated by the prize multiplier symbol, and be awarded.</p><h3>Game Completion</h3><p>When all the windows are revealed, the game ends. A closing message appears, indicating the game’s outcome.</p><h2>Rules</h2><p>Misuse or malfunction voids all pays and plays.</p><p>Wins are shown in currency.</p><h4>Intellectual Property</h4><p>© 2017 IGT. All rights reserved. All other trademarks used herein are owned by IGT or its affiliates, may not be used without permission, and where indicated with a ®, are registered in the U.S. Patent and Trademark Office.</p><p>Last updated 17 March 2017</p><p> </p></section>"]
+    }
+}

@@ -1,0 +1,21 @@
+{"frames": {
+
+"logoTranslate.png":
+{
+	"frame": {"x":1,"y":1,"w":394,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":394,"h":200},
+	"sourceSize": {"w":394,"h":202},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "logoTranslate.png",
+	"format": "RGBA8888",
+	"size": {"w":396,"h":202},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9a2cc7c31d360040ac4686eea29a1a26:a2b9c63c3d4b50bd4f59ba9fea38b92e:2cf1aeced9b919c9db46adeacb66c9d7$"
+}
+}

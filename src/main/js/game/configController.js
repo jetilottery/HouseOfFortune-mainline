@@ -1,0 +1,12 @@
+define({    
+    audio:{
+        "PaytableOpen":{
+            "name":"ButtonGeneric",
+            "channel":"2"
+        },
+        "PaytableClose":{
+            "name":"ButtonGeneric",
+            "channel":"2"
+        }
+    }                 
+});
